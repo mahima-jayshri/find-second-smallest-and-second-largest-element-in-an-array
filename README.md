@@ -17,4 +17,5 @@ A simple Java utility that finds the second‑smallest and second‑largest **di
    ```bash
    javac Test.java
 3. Run:
+   ```bash
    java Test
