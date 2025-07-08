@@ -1,0 +1,1 @@
+# find-second-smallest-and-second-largest-element-in-an-array
